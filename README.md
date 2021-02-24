@@ -1,4 +1,13 @@
-## Javascript password generator
+## Title
+Javascript password generator
 
-This repository is a fully function password generator made with Javascript, jQuery, and bootstrap.  
-Simply follow the instructions on the screen and check boxes of which characters you do not wish to include
+## Purpose
+A webpage application which can generate a password to the user's specifications.
+
+## Dependencies
+Made with jQuery and bootstrap
+
+## Usage
+Download files and open in browser locally, or use the pages deployment here:  
+https://nboutin109.github.io/Javascript-password-generator/
+
