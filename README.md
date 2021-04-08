@@ -16,5 +16,5 @@ https://nboutin109.github.io/Javascript-password-generator/</a></p>
 </ul>
 
 ## Code Overview
-Code from index.html is rendered and styled with the included style.css and Bootstrap. The script.js file contains all possible characters in arrays. Those arrays are then added to an overall array unless the user checks a box to not include some characters. Characters equal to the inputted length are then randomly generated and returned as a string for display.
+Code from index.html is rendered and styled with the style.css file and Bootstrap. The script.js file contains all possible characters in arrays. Those arrays are then added to an overall array unless the user checks a box to not include some characters. Characters equal to the inputted length are then randomly generated and returned as a string for display.
 
